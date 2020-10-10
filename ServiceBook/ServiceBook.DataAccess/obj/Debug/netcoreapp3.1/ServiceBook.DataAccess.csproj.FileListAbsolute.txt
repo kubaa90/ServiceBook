@@ -1,0 +1,17 @@
+C:\Users\jakub\OneDrive\Dokumenty\Github\ServiceBook\ServiceBook\ServiceBook.DataAccess\bin\Debug\netcoreapp3.1\ServiceBook.DataAccess.deps.json
+C:\Users\jakub\OneDrive\Dokumenty\Github\ServiceBook\ServiceBook\ServiceBook.DataAccess\bin\Debug\netcoreapp3.1\ServiceBook.DataAccess.dll
+C:\Users\jakub\OneDrive\Dokumenty\Github\ServiceBook\ServiceBook\ServiceBook.DataAccess\obj\Debug\netcoreapp3.1\ServiceBook.DataAccess.AssemblyInfoInputs.cache
+C:\Users\jakub\OneDrive\Dokumenty\Github\ServiceBook\ServiceBook\ServiceBook.DataAccess\obj\Debug\netcoreapp3.1\ServiceBook.DataAccess.AssemblyInfo.cs
+C:\Users\jakub\OneDrive\Dokumenty\Github\ServiceBook\ServiceBook\ServiceBook.DataAccess\obj\Debug\netcoreapp3.1\ServiceBook.DataAccess.csprojAssemblyReference.cache
+C:\Users\jakub\OneDrive\Dokumenty\Github\ServiceBook\ServiceBook\ServiceBook.DataAccess\bin\Debug\netcoreapp3.1\ServiceBook.DataAccess.runtimeconfig.json
+C:\Users\jakub\OneDrive\Dokumenty\Github\ServiceBook\ServiceBook\ServiceBook.DataAccess\bin\Debug\netcoreapp3.1\ServiceBook.DataAccess.runtimeconfig.dev.json
+C:\Users\jakub\OneDrive\Dokumenty\Github\ServiceBook\ServiceBook\ServiceBook.DataAccess\obj\Debug\netcoreapp3.1\ServiceBook.DataAccess.genruntimeconfig.cache
+C:\Users\jakub\OneDrive\Dokumenty\Github\ServiceBook\ServiceBook\ServiceBook.DataAccess\bin\Debug\netcoreapp3.1\ServiceBook.DataAccess.pdb
+C:\Users\jakub\OneDrive\Dokumenty\Github\ServiceBook\ServiceBook\ServiceBook.DataAccess\bin\Debug\netcoreapp3.1\ServiceBook.Models.dll
+C:\Users\jakub\OneDrive\Dokumenty\Github\ServiceBook\ServiceBook\ServiceBook.DataAccess\bin\Debug\netcoreapp3.1\ServiceBook.Utility.dll
+C:\Users\jakub\OneDrive\Dokumenty\Github\ServiceBook\ServiceBook\ServiceBook.DataAccess\bin\Debug\netcoreapp3.1\ServiceBook.Models.pdb
+C:\Users\jakub\OneDrive\Dokumenty\Github\ServiceBook\ServiceBook\ServiceBook.DataAccess\bin\Debug\netcoreapp3.1\ServiceBook.Utility.pdb
+C:\Users\jakub\OneDrive\Dokumenty\Github\ServiceBook\ServiceBook\ServiceBook.DataAccess\obj\Debug\netcoreapp3.1\ServiceBook.DataAccess.csproj.CopyComplete
+C:\Users\jakub\OneDrive\Dokumenty\Github\ServiceBook\ServiceBook\ServiceBook.DataAccess\obj\Debug\netcoreapp3.1\ServiceBook.DataAccess.dll
+C:\Users\jakub\OneDrive\Dokumenty\Github\ServiceBook\ServiceBook\ServiceBook.DataAccess\obj\Debug\netcoreapp3.1\ServiceBook.DataAccess.pdb
+C:\Users\jakub\OneDrive\Dokumenty\Github\ServiceBook\ServiceBook\ServiceBook.DataAccess\obj\Debug\netcoreapp3.1\ServiceBook.DataAccess.csproj.CoreCompileInputs.cache

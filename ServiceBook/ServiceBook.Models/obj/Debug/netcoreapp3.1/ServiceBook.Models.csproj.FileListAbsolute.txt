@@ -1,0 +1,9 @@
+C:\Users\jakub\OneDrive\Dokumenty\Github\ServiceBook\ServiceBook\ServiceBook.Models\bin\Debug\netcoreapp3.1\ServiceBook.Models.deps.json
+C:\Users\jakub\OneDrive\Dokumenty\Github\ServiceBook\ServiceBook\ServiceBook.Models\bin\Debug\netcoreapp3.1\ServiceBook.Models.dll
+C:\Users\jakub\OneDrive\Dokumenty\Github\ServiceBook\ServiceBook\ServiceBook.Models\bin\Debug\netcoreapp3.1\ServiceBook.Models.pdb
+C:\Users\jakub\OneDrive\Dokumenty\Github\ServiceBook\ServiceBook\ServiceBook.Models\obj\Debug\netcoreapp3.1\ServiceBook.Models.csprojAssemblyReference.cache
+C:\Users\jakub\OneDrive\Dokumenty\Github\ServiceBook\ServiceBook\ServiceBook.Models\obj\Debug\netcoreapp3.1\ServiceBook.Models.csproj.CoreCompileInputs.cache
+C:\Users\jakub\OneDrive\Dokumenty\Github\ServiceBook\ServiceBook\ServiceBook.Models\obj\Debug\netcoreapp3.1\ServiceBook.Models.AssemblyInfoInputs.cache
+C:\Users\jakub\OneDrive\Dokumenty\Github\ServiceBook\ServiceBook\ServiceBook.Models\obj\Debug\netcoreapp3.1\ServiceBook.Models.AssemblyInfo.cs
+C:\Users\jakub\OneDrive\Dokumenty\Github\ServiceBook\ServiceBook\ServiceBook.Models\obj\Debug\netcoreapp3.1\ServiceBook.Models.dll
+C:\Users\jakub\OneDrive\Dokumenty\Github\ServiceBook\ServiceBook\ServiceBook.Models\obj\Debug\netcoreapp3.1\ServiceBook.Models.pdb
