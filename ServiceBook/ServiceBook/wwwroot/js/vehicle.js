@@ -4,15 +4,15 @@ $(document).ready(function () {
     loadDataTable();
 });
 
-
 function loadDataTable() {
     dataTable = $('#tblData').DataTable({
         "ajax": {
-            "url": "/Vehicle/GetAll"
+            "url": "/Admin/Vehicle/GetAll",
+            "dataSrc": "data"
         },
         "columns": [
             { "data": "number", "width": "20%" },
-            { "data": "VIN", "width": "20%" },
+            { "data": "vin", "width": "20%" },
             { "data": "plateNumber", "width": "20%" },
             { "data": "registrationDate", "width": "20%" },
             {

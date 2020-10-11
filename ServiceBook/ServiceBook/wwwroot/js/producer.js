@@ -1,14 +1,24 @@
 ﻿var dataTable;
 
 $(document).ready(function () {
+    /*$.ajax("/Admin/Producer/GetAll")
+        .done(function (result) {
+            console.log(result.data);
+        })
+        .fail(function () {
+            alert("error");
+        })
+        .always(function () {
+            alert("complete");
+        });*/
     loadDataTable();
 });
-
 
 function loadDataTable() {
     dataTable = $('#tblData').DataTable({
         "ajax": {
-            "url": "/Admin/Producer/GetAll"
+            "url": "/Admin/Producer/GetAll",
+            "dataSrc":"data"
         },
         "columns": [
             { "data": "name", "width": "30%" },
