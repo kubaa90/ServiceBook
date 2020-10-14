@@ -8,6 +8,7 @@ namespace ServiceBook.DataAccess.Repository.IRepository
     {
         public IVehicleRepository Vehicle { get; }
         public IProducerRepository Producer { get; }
+        public IFaultRepository Fault { get; }
         public ISP_Call SpCall { get; }
         void Save();
     }

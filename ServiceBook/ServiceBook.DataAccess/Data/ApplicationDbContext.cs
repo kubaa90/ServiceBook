@@ -15,5 +15,6 @@ namespace ServiceBook.DataAccess.Data
         }
         public DbSet<Vehicle> Vehicles { get; set; }
         public DbSet<Producer> Producers { get; set; }
+        public DbSet<Fault> Faults { get; set; }
     }
 }
