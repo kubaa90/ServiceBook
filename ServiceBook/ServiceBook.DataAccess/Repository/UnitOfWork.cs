@@ -16,11 +16,13 @@ namespace ServiceBook.DataAccess.Repository
             _db = db;
             Vehicle = new VehicleRepository(_db);
             Producer = new ProducerRepository(_db);
+            Fault = new FaultRepository(_db);
             SpCall = new SP_Call(_db);
         }
 
         public IVehicleRepository Vehicle { get; private set; }
         public IProducerRepository Producer { get; private set; }
+        public IFaultRepository Fault { get; private set; }
         public ISP_Call SpCall { get; private set; }
         public void Dispose()
         {
