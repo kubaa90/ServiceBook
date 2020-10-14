@@ -1,0 +1,60 @@
+﻿@model ServiceBook.Models.ViewModels.FaultViewModel
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var title = "Dodaj Zgłoszenie";
+}
+
+
+<form method="post" enctype="multipart/form-data">
+    <div class="row p-3 border">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        @if (Model.Fault.Id != 0)
+        {
+            //edit
+            title = "Edytuj Zgłoszenie";
+            <input type="hidden" asp-for="Fault.Id" />
+        }
+        <div class="col-12 border-bottom">
+            <h2 class="text-primary">@title</h2>
+        </div>
+        <div class="col-8 pt-4">
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Fault.Description"></label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="Fault.Description" class="form-control" />
+                    <span asp-validation-for="Fault.Description" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-4">
+                    Numer pojazdu
+                </div>
+                <div class="col-8">
+                    @Html.DropDownListFor(m => m.Fault.VehicleId, Model.VehicleList, "-Numer pojazdu",
+                        new { @class = "form-control" })
+                    <span asp-validation-for="Fault.VehicleId" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-8 offset-4">
+                    @if (Model.Fault.Id != 0)
+                    {
+                        <partial name="_EditAndBackToListButton" model="Model.Fault.Id" />
+                    }
+                    else
+                    {
+                        <partial name="_CreateAndBackToListButton" />
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+}
+
